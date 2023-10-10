@@ -20,7 +20,7 @@ export default function About() {
             soccer, listening to <a href='https://open.spotify.com/playlist/1XSlVHDwQypugKagP8RC6l?si=b6440867cab64142'>old english songs</a>, and skateboarding. I &hearts;{' '}
             <span className='font-medium'>traveling</span> and am currently
             on a gap semester{' '}
-            <span className='font-medium'>traveling across India,</span>
+            <span className='font-medium'>traveling across India.</span>
         </p>
     </motion.section>
 }
